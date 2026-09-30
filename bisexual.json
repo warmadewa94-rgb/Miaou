@@ -1,0 +1,52 @@
+{
+  "name": "Bisexual Pride",
+  "author": "Aliucord Theme",
+  "version": "1.0.0",
+  "color_palette": {
+    "bi_pink": "#D60270",
+    "bi_purple": "#9B4F96",
+    "bi_blue": "#0038A8",
+    "bi_dark_bg": "#120B1C",
+    "bi_card_bg": "#1D132B",
+    "bi_light_text": "#F3EEF8",
+    "bi_muted_text": "#A89BBB"
+  },
+  "colors": {
+    "background_primary": "bi_dark_bg",
+    "background_secondary": "bi_card_bg",
+    "background_secondary_alt": "#160E22",
+    "background_tertiary": "#0E0817",
+    "background_floating": "#251838",
+    "background_mobile_primary": "bi_dark_bg",
+    "background_mobile_secondary": "bi_card_bg",
+    
+    "text_normal": "bi_light_text",
+    "text_muted": "bi_muted_text",
+    "text_link": "bi_pink",
+    "text_positive": "#4EBA6F",
+    "text_warning": "#F5A623",
+    "text_danger": "bi_pink",
+    
+    "header_primary": "bi_light_text",
+    "header_secondary": "bi_muted_text",
+    
+    "interactive_normal": "bi_muted_text",
+    "interactive_hover": "bi_pink",
+    "interactive_active": "bi_pink",
+    "interactive_muted": "#55466A",
+    
+    "brand_color": "bi_pink",
+    "brand_color_400": "bi_purple",
+    "brand_color_500": "bi_pink",
+    "brand_color_600": "bi_blue",
+    
+    "button_primary_background": "bi_pink",
+    "button_primary_background_active": "bi_purple",
+    "button_secondary_background": "bi_blue",
+    "button_secondary_background_active": "bi_purple",
+    
+    "divider_primary": "bi_purple",
+    "active_channel_background": "#2D1B44",
+    "selected_channel_background": "#361F52"
+  }
+}
